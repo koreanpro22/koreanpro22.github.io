@@ -636,6 +636,9 @@ input, select, textarea {
 		}
 
 /* Image */
+	#prof-picture {
+		width: 300px;
+	}
 
 	.image {
 		border-radius: 4px;
